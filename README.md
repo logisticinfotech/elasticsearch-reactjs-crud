@@ -1,4 +1,4 @@
-This project contains demo of blog posted [here Need to change link](https://www.logisticinfotech.com/?page_id=13356&post_type=post&inline_edit=inlineedit).
+This project contains demo of blog posted [here](https://www.logisticinfotech.com/blog/elasticsearch-connectivity-from-reactjs/).
 
 ## Available Scripts
 
